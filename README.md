@@ -1,5 +1,9 @@
 # Rust + ESP32 Knight rider lights
 
+
+https://github.com/user-attachments/assets/88ff57b1-5f61-4015-b45f-7f8e87b307a2
+
+
 The **Knight** **Rider** LED **Light** Kit is a popular and versatile lighting solution for car enthusiasts and DIY hobbyists who want to add a stylish, eye-catching glow to their vehicles.
 
 Here is how to make one with 3 leds and esp32 using rust,
